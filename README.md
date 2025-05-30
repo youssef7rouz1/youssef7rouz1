@@ -108,6 +108,10 @@ When I’m not hurting my back from sitting and staring at a PC screen, you can 
 Feel free to open an issue in this repo, send me a message on LinkedIn, or drop me an email. I’m always happy to collaborate and share knowledge!  
 
 
+
+
+<hr>
+
 ## 🐍 My Contributions
 
 <div align="center">
@@ -118,7 +122,6 @@ Feel free to open an issue in this repo, send me a message on LinkedIn, or drop 
   </picture>
 </div>
 
-<hr>
 <!--
 **youssef7rouz1/youssef7rouz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
