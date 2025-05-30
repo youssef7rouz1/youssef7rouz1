@@ -75,6 +75,18 @@ Here are a few of my favorite repos—click on any to explore the code, demos, a
 - [**Elevator-Failure-Simulation**](https://github.com/youssef7rouz1/simulation-of-elevator-failures-simulation-de-d-faillances-d-un-ascenseur)  
   A Python simulation of various elevator failure scenarios to study system robustness and fault handling.
 
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=youssef7rouz1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="youssef7rouz1's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=youssef7rouz1&theme=transparent&count_private=true&border_radius=10&locale=en" alt="youssef7rouz1's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef7rouz1&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="youssef7rouz1's Most Used Languages" />
+</div>
+
+<hr>
+
 
 - 🤝 Let’s Connect!
 
