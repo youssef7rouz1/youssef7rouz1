@@ -55,6 +55,27 @@ I’m a student passionate about cybersecurity and software development. I’m n
 <hr>
 
 
+
+## 🚀 Cool Projects
+
+Here are a few of my favorite repos—click on any to explore the code, demos, and docs!
+
+- [**YCrypt**](https://github.com/youssef7rouz1/YCrypt)  
+  A Flask web app implementing various encryption algorithms in Python, perfect for understanding cryptography concepts in detail.
+
+- [**AES-128_Encryption-in-C-CPA-DFA-Attacks**](https://github.com/youssef7rouz1/AES-128_Encryption-in-C-CPA-DFA-Attacks)  
+  Modeling and analyzing CPA and DFA attacks on AES-128. The AES implementation is in C, with attack scripts written in Python.
+
+- [**BlockChain-Projects**](https://github.com/youssef7rouz1/BlockChain-Projects)  
+  A decentralized Ethereum DApp simulating a multi-signature bank account system. Built with Solidity, Hardhat, and Ethers.js, complete with a web frontend that interacts via MetaMask.
+
+- [**Botnet-Detection-PCA-CTU13**](https://github.com/youssef7rouz1/Botnet-detection-PCA-based-method-on-CTU-13-Dataset)  
+  Implementation of a PCA-based botnet detection method using the FLAGS algorithm on the CTU-13 dataset.
+
+- [**Elevator-Failure-Simulation**](https://github.com/youssef7rouz1/simulation-of-elevator-failures-simulation-de-d-faillances-d-un-ascenseur)  
+  A Python simulation of various elevator failure scenarios to study system robustness and fault handling.
+
+
 - 🤝 Let’s Connect!
 
 Feel free to open an issue in this repo, send me a message on LinkedIn, or drop me an email. I’m always happy to collaborate and share knowledge!  
