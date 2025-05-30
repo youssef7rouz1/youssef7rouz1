@@ -35,10 +35,32 @@ I’m a student passionate about cybersecurity and software development. I’m n
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
+
+- 🚀 I’m currently working on cryptography and cybersecurity.
+
+- 📌 I’m currently learning about blockchain, cryptography, cybersecurity, and penetration testing.
+
+
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,postgres,django,flask,unity,kali" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+<hr>
+
+
+- 🤝 Let’s Connect!
+
+Feel free to open an issue in this repo, send me a message on LinkedIn, or drop me an email. I’m always happy to collaborate and share knowledge!  
 <!--
 **youssef7rouz1/youssef7rouz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🤝 Let’s Connect!
 
-Feel free to open an issue in this repo, send me a message on LinkedIn, or drop me an email. I’m always happy to collaborate and share knowledge!  
+ 
 -->
