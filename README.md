@@ -75,6 +75,18 @@ Here are a few of my favorite repos—click on any to explore the code, demos, a
 - [**Elevator-Failure-Simulation**](https://github.com/youssef7rouz1/simulation-of-elevator-failures-simulation-de-d-faillances-d-un-ascenseur)  
   A Python simulation of various elevator failure scenarios to study system robustness and fault handling.
 
+
+
+## 🎉 Fun Fact
+
+When I’m not hurting my back from sitting and staring at a PC screen, you can find me:
+
+- 🎹 Learning the piano  
+- 🌐 Exploring CTF challenges  
+- 😎 Hanging out with friends  
+- 💪 Working out at the gym
+
+
 ## ⚡️ Stats
 
 <br>
@@ -86,6 +98,9 @@ Here are a few of my favorite repos—click on any to explore the code, demos, a
 </div>
 
 <hr>
+
+
+ 
 
 
 - 🤝 Let’s Connect!
