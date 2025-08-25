@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{youssef7rouz1}/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=youssef7rouz1&style=flat-square&color=blue" alt="Profile views" />
 </div>
 <img src="https://github.com/youssef7rouz1/youssef7rouz1/blob/f2864ef1deb8edf7710bcf9abf8fb6331008e556/1000_F_622335155_t1SnyWoAkoi9C8zlId5tzufGFcmnWe6q.jpg" alt="CyberSecurity is all that matters, believe me (or don't)">
 
