@@ -13,12 +13,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+youssef7rouz1!;" />
 </h1>
 
-### An engineering curious student  passionate about cybersecurity and coding. Loves new challenges and is always trying to learn.
+### An engineering curious student  passionate about cybersecurity and coding.
 
 
-I’m a student passionate about cybersecurity and software development. I’m new to the cybersecurity field but I’m always learning and experimenting with new technologies!
-
-- 🌱 I’m currently exploring **cybersecurity**, **Blockchain**, and **Advanced Cryptography**
 - 💬 Ask me about **Python**, **Java**, **C#**, **Networking & Protocols**, **Django**, **Flask**, **Unity**, and more!
 - 📫 How to reach me: [Open an issue](https://github.com/youssef7rouz1/youssef7rouz1/issues) or drop me an email!
 
@@ -75,16 +72,6 @@ Here are a few of my favorite repos—click on any to explore the code, demos, a
 - [**Elevator-Failure-Simulation**](https://github.com/youssef7rouz1/simulation-of-elevator-failures-simulation-de-d-faillances-d-un-ascenseur)  
   A Python simulation of various elevator failure scenarios to study system robustness and fault handling.
 
-
-
-## 🎉 Fun Fact
-
-When I’m not hurting my back from sitting and staring at a PC screen, you can find me:
-
-- 🎹 Learning the piano  
-- 🌐 Exploring CTF challenges  
-- 😎 Hanging out with friends  
-- 💪 Working out at the gym
 
 
 ## ⚡️ Stats
